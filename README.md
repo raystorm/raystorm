@@ -1,12 +1,41 @@
+<!--
 <h1 align="center" style="margin-bottom: 0">
   'Niit, Tom Burton di waa yu. Hukdza̱p deentkyu
 </h1>
-<h4 align="center">(Hi, I'm Tom Burton. I'm an Experienced Leader)</h4>
+<h4 align="center">(Hi, I'm Tom Burton.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)</h4>
 <h3 align="center">Supporting Native American Voices & Values, Experimentation, and Agile Software Development.</h3>
+-->
+'Niit, Tom Burton di waa yu.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;Hukdza̱p deentkyu
+========================================================================
+#### (Hi, I'm Tom Burton.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)
+
+Supporting Native American Voices & Values, Experimentation, and Agile Software Development.
+--------------------------------------------------------------------------------------------
 
 <!-- TODO: Banner Image, store in an images folder in this repository.
 ![Banner Image Representing Tom Burton](URL_TO_FILE_HERE)
 -->
+
+I am an Experienced Software Engineer and Leader.
+
+#### Leadership
+  * President and Founder **Native American Peoples at Allstate**
+  * President and Founder **[Smalgyax-Files.org](https://smalgyax-files.org)**
+    a 501(c)3 charity dedicated to the secure hosting, tagging, and sharing of Smalgyax Language Learning Documents, for language learners.
+
+#### Software Engineer
+  * Fullstack Engineer with a DevOps Flair
+  * Software Engineer for Many Years
+  * Formally Trained as a Systems/Network Admin
+    * Linux 🐧 is my jam 🎸
+  
+#### Agile Maturity Model
+   1.  **Do Agile** (Follow the process, but don't resistent to change)
+   2.  **Be Agile** (Use the Process, and are able to change/redirect as need warrants)
+   3.  **DevOps/Automation** (Clean up Processes, remove as many manual steps as possible from releasing, while still being safe.)
+   4.  **Experimentation** (Once Teams are agile, and releasing is easy, then you can experiment, monitor, and improve faster.)
+
+---------
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -74,6 +103,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"
          alt="groovy" width="40" height="40"/>
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" 
+         width="40" height="40" alt="GNU Bash" />
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="40" height="40"/>
@@ -82,7 +115,9 @@
 #### Frameworks and Libraries
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+   <!-- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
+        alt="spring" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -94,6 +129,10 @@
 </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+        width="40" height="40" alt="Material UI" />
 </a>
 
 #### Tools
@@ -136,6 +175,27 @@
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg"
         alt="DynamoDB" width="40" height="40"/>
+</a>
+
+#### Editors
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+        width="40" height="40" alt="VS Code" />
+  </a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
+        width="40" height="40" alt="Vim" />
+</a>
+
+#### Web
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+        width="40" height="40" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+        width="40" height="40" alt="CSS3" />
 </a>
 
 <p>&nbsp;</p>
