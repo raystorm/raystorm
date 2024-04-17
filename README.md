@@ -180,7 +180,7 @@ I am an Experienced Software Engineer and Leader.
 #### Editors
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
         width="40" height="40" alt="VS Code" />
   </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
