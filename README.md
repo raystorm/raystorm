@@ -16,7 +16,7 @@ Supporting Native American Voices & Values, Experimentation, and Agile Software 
 ![Banner Image Representing Tom Burton](URL_TO_FILE_HERE)
 -->
 
-I am an Experienced Software Engineer and Leader.
+I am an Experienced Software Engineering Leader, with a Passion for Native Issues, and Language Preservation.
 
 #### Leadership
   * President and Founder **Native American Peoples at Allstate**
