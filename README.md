@@ -2,56 +2,110 @@
 <h1 align="center" style="margin-bottom: 0">
   'Niit, Tom Burton di waa yu. Hukdza̱p deentkyu
 </h1>
-<h4 align="center">(Hi, I'm Tom Burton.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)</h4>
+<h4 align="center">(Hi, I'm Tom Burton.🪶  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)</h4>
 <h3 align="center">Supporting Native American Voices & Values, Experimentation, and Agile Software Development.</h3>
 -->
-'Niit, Tom Burton di waa yu.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;Hukdza̱p deentkyu
+'Niit, Tom Burton di waa yu.🪶  &nbsp;&nbsp;&nbsp;&nbsp;Hukdza̱p deentkyu
 ========================================================================
-#### (Hi, I'm Tom Burton.👋🏽  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)
+#### (Hi, I'm Tom Burton.🪶  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)
 
-Supporting Native American Voices & Values, Experimentation, and Agile Software Development.
+Supporting Native American Voices & Values, Analytics, and Agile Software Development.
 --------------------------------------------------------------------------------------------
 
 <!-- TODO: Banner Image, store in an images folder in this repository.
 ![Banner Image Representing Tom Burton](URL_TO_FILE_HERE)
 -->
 
-I am an Experienced Software Engineering Leader, with a Passion for Native Issues, and Language Revitalization.
+An experienced Software Engineering Leader passionate about Native issues,
+with language revitalization roots that grew into cultural identity and empowerment.
 
 #### Leadership
-  * President and Founder **Native American Peoples at Allstate**
-  * President and Founder **[Smalgyax-Files.org](https://smalgyax-files.org)**
-    a 501(c)3 charity dedicated to the secure hosting, tagging, and sharing of Smalgyax Language Learning Documents, for language learners.
+  * President and Founder, **Native American Peoples at Allstate**
+  * President and Founder, **[Smalgyax-Files.org](https://smalgyax-files.org)**
+    a 501(c)3 charity dedicated to the secure hosting, tagging, and sharing
+    of Smalgyax Language Learning Documents.
+  * Manager, Software Engineering Team at Allstate 
 
 #### Software Engineer
-  * Fullstack Engineer with a DevOps Flair
-  * Software Engineer for Many Years
-  * Formally Trained as a Systems/Network Admin
+  * Full-stack Engineer with a DevOps Flair
+  * Software Engineer with decades of experience, including: 
+    IT support, development, and leadership
+  * Formally trained in Systems/Network Administration
     * Linux 🐧 is my jam 🎸
   
 #### Agile Maturity Model
-   1.  **Do Agile** (Follow the process, but don't resistent to change)
-   2.  **Be Agile** (Use the Process, and are able to change/redirect as need warrants)
-   3.  **DevOps/Automation** (Clean up Processes, remove as many manual steps as possible from releasing, while still being safe.)
-   4.  **Experimentation** (Once Teams are agile, and releasing is easy, then you can experiment, monitor, and improve faster.)
+   1. **Do Agile** - follow the process *without* understanding it or adapting as needed
+   2. **Be Agile** - use the process *with* understanding, and adapt as needed
+   3. **DevOps/Automation** -
+      improve speed, predictability, and reliability by removing manual steps
+   4. **Experimentation** -
+      mature teams experiment, measure, monitor, and improve continuously
 
----------
+Be Agile — use the process intentionally and adapt as needed
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raystorm" alt="raystorm" />
-  </a>
-</p>
+DevOps & Automation — remove manual steps, keep releases safe and predictable
 
-- 💻 In my Day Job 👔 I am building 🛠 **Software Experimentation tools.**
-- 🌱 I’m currently learning **AWS, AWS Amplify, AWS OpenSearch, AWS Lambda, and LaunchDarkly.**
-- ❤️‍🔥 My Current (Passion) Project is [Smalgyax-Files.org](https://github.com/raystorm/hukdzen)
-- 🤝 I’m looking for help with [Smalgyax-Files.org](https://github.com/raystorm/hukdzen)
-- 👨🏻‍💻 All of my *public* projects are available at [https://github.com/raystorm](https://github.com/raystorm)
-- 💬 Ask me about **Java, Spring/SpringBoot, and React.**
-- 📫 How to reach me **Tom.Burton@Outlook.com**
-- ⚡ Fun fact **Born and Raised in Alaska, it has shaped who I am today, and my outlook on the world.  
-                You can take the man out of Alaska, but you can never take Alaska out of the man.**
+Experimentation — once foundations are solid and releases are easy, experiment, measure, and improve
+
+#### My Engineering Philosophy
+
+**Foundations first.**  
+You have to walk before you can run — or experiment.  
+Strong fundamentals make everything else possible.
+
+**Simplicity is understanding.**  
+If I can’t explain it simply, I probably don’t understand it.  
+If a solution feels overly complicated, it’s usually the wrong solution.
+
+**Reliability beats elegance.**  
+Late‑night production calls taught me that clever code fails loudly.  
+No one cares how elegant it is if it doesn’t work.
+
+**Clarity is respect.**  
+Naming, structure, and commit messages shape how others experience a system.  
+“Code like the person behind you is a murderous psychopath who knows where you live.”  
+Clarity is an act of care for the next person who touches the code — including future‑you.
+
+**Teach what you know.**  
+A rising tide lifts all boats. Knowledge only matters when it’s shared.  
+
+**Platform work is stewardship.**  
+My job is to remove friction, empower teams, and build systems that last.  
+Good platforms don’t demand cleverness;
+they make the right thing the easy (hopefully obvious) thing.
+
+----
+
+For a more concrete example of my `Engineering Philosophy` in *action*,
+see my [Commit Style Guide](./docs/commit-style-guide.md).
+
+
+#### My Values & Principles
+
+**Family.**  
+My wife and kids come first — they’re the reason the work matters.  
+Family includes the people who raised me, the ones who shaped me, and the ones I’m raising.
+
+**Respect.**  
+Honor people, relationships, and the communities you move through.  
+Respect includes listening to elders, learning from experience, and leading with humility.
+
+**Stewardship.**  
+Care for what you inherit — systems, teams, culture, and the planet itself.  
+Build in a way that honors the next **seven generations**, not just the next release.
+
+**Empowerment.**  
+Lift others up. A rising tide lifts all boats — in **engineering, culture, and community**.
+
+**Cultural responsibility.**  
+Honor identity, language, and sovereignty. Technology should support people, not erase them.
+
+**Clarity and Simplicity.**  
+Communicate with intention. Complexity isn’t a virtue; it’s a barrier. Simple is honest.
+
+**Long‑term thinking.**  
+Optimize for durability, not shortcuts. Foundations endure; hacks decay.
+
 
 ### Connect with me:
 
@@ -65,6 +119,13 @@ I am an Experienced Software Engineering Leader, with a Passion for Native Issue
              align="center" alt="659354" height="30" width="40" />
     </a>
 </p>
+
+#### About Me
+
+> Born and Raised in Alaska, it has shaped who I am today, and my outlook on the world.  
+> You can take the man out of Alaska, but you can never take Alaska out of the man.
+
+----
 
 ### Languages, Tools and Technologies:
 
