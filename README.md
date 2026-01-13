@@ -60,6 +60,7 @@ If a solution feels overly complicated, it’s usually the wrong solution.
 **Reliability beats elegance.**  
 Late‑night production calls taught me that clever code fails loudly.  
 No one cares how elegant it is if it doesn’t work.
+They *really* don’t care if it solves imaginary problems, and makes it impossible to use.
 
 **Clarity is respect.**  
 Naming, structure, and commit messages shape how others experience a system.  
