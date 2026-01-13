@@ -50,8 +50,8 @@ Experimentation — once foundations are solid and releases are easy, experiment
 #### My Engineering Philosophy
 
 **Foundations first.**  
-You have to walk before you can run — or experiment.  
-Strong fundamentals make everything else possible.
+You have to walk before you can run, or experiment.  
+Foundations are the heart, they decide what’s possible.
 
 **Simplicity is understanding.**  
 If I can’t explain it simply, I probably don’t understand it.  
@@ -69,11 +69,13 @@ Clarity is an act of care for the next person who touches the code — including
 
 **Teach what you know.**  
 A rising tide lifts all boats. Knowledge only matters when it’s shared.  
+Sharing knowledge helps everyone grow.  
+Teaching helps others learn without repeating old mistakes.
 
 **Platform work is stewardship.**  
 My job is to remove friction, empower teams, and build systems that last.  
-Good platforms don’t demand cleverness;
-they make the right thing the easy (hopefully obvious) thing.
+Good platforms reject cleverness.  
+Good platforms make the right thing, the easy thing, and the obvious thing.
 
 ----
 
