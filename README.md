@@ -65,7 +65,7 @@ They *really* don’t care if it solves imaginary problems, and makes it impossi
 **Clarity is respect.**  
 Naming, structure, and commit messages shape how others experience a system.  
 “Code like the person behind you is a murderous psychopath who knows where you live.”  
-Clarity is an act of care for the next person who touches the code — including future‑you.
+Clarity is an act of care for the next person who touches the code, including future‑you.
 
 **Teach what you know.**  
 A rising tide lifts all boats. Knowledge only matters when it’s shared.  
@@ -76,6 +76,11 @@ Teaching helps others learn without repeating old mistakes.
 My job is to remove friction, empower teams, and build systems that last.  
 Good platforms reject cleverness.  
 Good platforms make the right thing, the easy thing, and the obvious thing.
+
+**Experiment, iterate, and grow**
+Good teams guess. Great teams test. The best teams *know*.
+Good teams introspect, then improve.
+Great teams measure, that’s how they *know*.
 
 ----
 
@@ -108,6 +113,33 @@ Communicate with intention. Complexity isn’t a virtue; it’s a barrier. Simpl
 
 **Long‑term thinking.**  
 Optimize for durability, not shortcuts. Foundations endure; hacks decay.
+
+### Guides, Guardrails, and Growth
+
+Some of these are mine, most are not.  
+Some are half‑jokes that turned out to be true.  
+All of them shape how I think, how I build, and what I ship.
+
+- Simple is elegant.  
+  Complexity is earned.
+- If it's clever now, it will be confusing later.
+- If it’s hard to name, or test, it’s probably doing too much.
+- "The Internet hates you."
+- Tests are not optional
+- Automation creates consistency.
+  Consistency creates clarity.  
+  Clarity creates reliability.
+- “Code like the person behind you is a murderous psychopath who knows where you live.”
+- The best code quality metric is "Number of what the... per hour."
+- One step at a time.
+- If you can’t measure it, you can’t improve it.
+- If you can't see it, you can't diagnose it.
+  If you can't diagnose it, you can't fix it.
+- “A UI is like a joke. If you have to explain it, it’s not very good.”
+- “Make something idiot-proof, and they’ll build a better idiot.”
+- I may be smart, but I shouldn’t have to be.
+- “Perfect is the enemy of good.”
+- “Don’t boil the ocean.”
 
 
 ### Connect with me:
