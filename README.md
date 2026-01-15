@@ -10,7 +10,7 @@
 #### (Hi, I'm Tom Burton.🪶  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)
 
 Supporting Native American Voices & Values, Analytics, and Agile Software Development.
---------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 <!-- TODO: Banner Image, store in an images folder in this repository.
 ![Banner Image Representing Tom Burton](URL_TO_FILE_HERE)
@@ -79,8 +79,8 @@ Good platforms make the right thing, the easy thing, and the obvious thing.
 
 **Experiment, iterate, and grow**
 Good teams guess. Great teams test. The best teams *know*.
-Good teams introspect, then improve.
-Great teams measure, that’s how they *know*.
+Good teams continually introspect, iterate, and improve.
+The best teams measure, that’s how they *know*.
 
 ----
 
@@ -122,25 +122,58 @@ All of them shape how I think, how I build, and what I ship.
 
 - Simple is elegant.  
   Complexity is earned.
+- Use the right tool for the job.
+- Use tools the way they are meant to be used.
 - If it's clever now, it will be confusing later.
 - If it’s hard to name, or test, it’s probably doing too much.
-- "The Internet hates you."
-- Tests are not optional
+- Tests are not optional.
 - Automation creates consistency.
   Consistency creates clarity.  
   Clarity creates reliability.
+- One step at a time.
+- “Perfect is the enemy of good.”
+- “Don’t boil the ocean.”
+- "The Internet hates you."
 - “Code like the person behind you is a murderous psychopath who knows where you live.”
 - The best code quality metric is "Number of what the... per hour."
-- One step at a time.
-- If you can’t measure it, you can’t improve it.
-- If you can't see it, you can't diagnose it.
-  If you can't diagnose it, you can't fix it.
 - “A UI is like a joke. If you have to explain it, it’s not very good.”
 - “Make something idiot-proof, and they’ll build a better idiot.”
 - I may be smart, but I shouldn’t have to be.
-- “Perfect is the enemy of good.”
-- “Don’t boil the ocean.”
+- If you can’t measure it, you can’t improve it.
+- If you can't see it, you can't diagnose it.
+  If you can't diagnose it, you can't fix it.
 
+### **AI is a tool, not magic.**
+
+AI is a power amplifier — it can help you move faster, but only if you already know where you're going.  
+AI can help — it can compare, review, and rephrase.  
+It can be a sounding board. It can help you solidify ideas.  
+But it can’t think for you. It can’t tell you what matters.  
+And it can’t fix a problem you can’t explain.
+
+AI is still early — like blockchain in 2017, it’s everywhere.  
+It’s a tool in search of the right problems.  
+It’s an unruly teenager — fast, arrogant, occasionally brilliant, occasionally wrong.
+
+AI will follow your lead — confidently, fluently, and without hesitation.  
+It won’t tell you, you’re solving the wrong problem.  
+It won’t question your approach. It won’t offer a better alternative.  
+It won’t invent a new approach.
+
+AI can also teach —
+   it can explain concepts, walk you through examples, and help you understand faster.  
+It teaches by distilling information, but without understanding it.  
+It can explain, but you still have to learn.  
+If you don’t understand something the AI writes or does, ask it to explain.
+   It always will, and it’s always patient.
+
+Use it. Measure it. Don’t worship it.  
+If you can’t build it without AI, you probably shouldn’t ship it with AI.
+
+AI is a tool like any other — powerful, purposeful, helpful when applied correctly,
+harmful when misused.
+
+---
 
 ### Connect with me:
 
