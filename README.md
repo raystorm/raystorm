@@ -155,6 +155,10 @@ AI is still early — like blockchain in 2017, it’s everywhere.
 It’s a tool in search of the right problems.  
 It’s an unruly teenager — fast, arrogant, occasionally brilliant, occasionally wrong.
 
+AI hallucinates — so you don’t have to.  
+It forgets quickly. Without explicit or recent context, it will make assumptions.
+Verify the details. Be wary of answers that don’t match your style.
+
 AI will follow your lead — confidently, fluently, and without hesitation.  
 It won’t tell you, you’re solving the wrong problem.  
 It won’t question your approach. It won’t offer a better alternative.  
@@ -164,7 +168,7 @@ AI can also teach —
    it can explain concepts, walk you through examples, and help you understand faster.  
 It teaches by distilling information, but without understanding it.  
 It can explain, but you still have to learn.  
-If you don’t understand something the AI writes or does, ask it to explain.
+If you don’t understand an answer, ask it to explain.
    It always will, and it’s always patient.
 
 Use it. Measure it. Don’t worship it.  
