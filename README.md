@@ -9,15 +9,15 @@
 ========================================================================
 #### (Hi, I'm Tom Burton.🪶  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)
 
-Supporting Native American Voices & Values, Analytics, and Agile Software Development.
---------------------------------------------------------------------------------------
+Supporting Native American identity, Analytics, and Agile development.
+----------------------------------------------------------------------
 
 <!-- TODO: Banner Image, store in an images folder in this repository.
 ![Banner Image Representing Tom Burton](URL_TO_FILE_HERE)
 -->
 
-An experienced Software Engineering Leader passionate about Native issues,
-with language revitalization roots that grew into cultural identity and empowerment.
+An engineering leader shaped by Native American identity and language revitalization.
+Committed to clarity, stewardship, experimentation and empowerment. 
 
 #### Leadership
   * President and Founder, **Native American Peoples at Allstate**
@@ -26,12 +26,11 @@ with language revitalization roots that grew into cultural identity and empowerm
     of Smalgyax Language Learning Documents.
   * Manager, Software Engineering Team at Allstate 
 
-#### Software Engineer
+#### Roots
   * Full-stack Engineer with a DevOps Flair
-  * Software Engineer with decades of experience, including: 
-    IT support, development, and leadership
-  * Formally trained in Systems/Network Administration
-    * Linux 🐧 is my jam 🎸
+  * Decades of IT experience including: support, systems, development, and leadership
+  * DevOps before DevOps, raised in Ops, distilled in development
+  * Experience and experimentation guided the path, not a curriculum
   
 #### Agile Maturity Model
    1. **Do Agile** - follow the process *without* understanding it or adapting as needed
@@ -163,8 +162,8 @@ Verify the details. Be wary of answers that don’t match your style.
 
 AI will follow your lead — confidently, fluently, and without hesitation.  
 It won’t tell you, you’re solving the wrong problem.  
-It won’t question your approach. It won’t offer a better alternative.  
-It won’t invent a new approach.
+It will refine your approach, but it won’t rethink the problem.  
+It won’t create anything new, only refine what you already brought.
 
 AI can also teach —
    it can explain concepts, walk you through examples, and help you understand faster.  
@@ -174,7 +173,7 @@ If you don’t understand an answer, ask it to explain.
    It always will, and it’s always patient.
 
 Use it. Measure it. Don’t worship it.  
-If you can’t build it without AI, you probably shouldn’t ship it with AI.
+If you have no understanding, and AI wrote it, it has no business in production.
 
 AI is a tool like any other — powerful, purposeful, helpful when applied correctly,
 harmful when misused.
