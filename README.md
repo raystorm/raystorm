@@ -3,7 +3,7 @@
   'Niit, Tom Burton di waa yu. Hukdza̱p deentkyu
 </h1>
 <h4 align="center">(Hi, I'm Tom Burton.🪶  &nbsp;&nbsp;&nbsp;&nbsp;I'm an Experienced Leader)</h4>
-<h3 align="center">Supporting Native American Voices & Values, Experimentation, and Agile Software Development.</h3>
+<h3 align="center">Supporting Native American identity, Analytics, and Agile development.</h3>
 -->
 'Niit, Tom Burton di waa yu.🪶  &nbsp;&nbsp;&nbsp;&nbsp;Hukdza̱p deentkyu
 ========================================================================
