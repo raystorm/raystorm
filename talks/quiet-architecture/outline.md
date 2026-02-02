@@ -98,8 +98,9 @@ Loud is expensive and brittle.
 - Make boundaries explicit
 - Prefer clarity over cleverness
 - Document *why*, not *what*
-  - Documentation should always sit one level above the thing it describes.
-    If code is complex for a reason, explain the reason — not the mechanics.
+  - Documentation should always sit at one level above the thing it describes.
+    EX: If code is complex for a reason, explain the reason,
+        *and* the code, since the complexity hides the code's own explanation.
 - Remove noise ruthlessly
 - Build for the next maintainer, not the current sprint
 
