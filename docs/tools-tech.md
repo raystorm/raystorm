@@ -164,6 +164,7 @@
 
 <p>&nbsp;</p>
 
+<!-- vercel site disabled
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raystorm&show_icons=true&locale=en&layout=compact"
        align="left" alt="raystorm" />
@@ -173,3 +174,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raystorm&show_icons=true&title_color=000000&locale=en"
        align="center" alt="raystorm" />
 </p>
+-->

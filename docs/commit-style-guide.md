@@ -3,7 +3,14 @@ Commit Style Guide
 
 I write commit messages using a structured, domain‑driven commit style designed
 for clarity, traceability, and long‑term maintainability.
-My commit messages should be concise, expressive, and easy to skim.
+My commit messages should use plain language, be concise, expressive, and easy to skim.
+
+---
+
+> [!NOTE]
+> Commit bodies summarize conceptual changes.
+> Bullets clarify the summary, with context, without clutter.
+> Bullets distill. They don't list every detail.
 
 ---
 
@@ -13,17 +20,26 @@ My commit messages should be concise, expressive, and easy to skim.
 A good commit message:
 
   * starts with a clear, imperative header
+  * uses plain, easy-to-understand language
   * uses semantic bullets to describe what changed
   * orders bullets by importance
   * groups related changes
   * uses sub‑items when helpful
-  * wraps file names and code objects in backticks
+  * wraps file names and code objects in backticks (ex: `` `someObjectName` ``)
   * uses domain vocabulary
   * documents invariants when relevant
 
-The goal is to keep the commit history clean, expressive, and aligned with the project’s domain‑driven design.
+The goal is to keep the commit history clean, expressive,
+and easy to follow.
 
-### 1.1 Story/Issue Linking
+### 1.1 Plain Language
+
+All commit text: headers, bullets, and sub‑items,
+should be written in clear, intention‑revealing plain language.
+Avoid noise, meaningless jargon, and unnecessary ceremony.
+Write for future maintainers.
+
+### 1.2 Story/Issue Linking
 
 When working in environments with issue tracking,
 Commit summaries will often begin with the link text.
@@ -39,8 +55,9 @@ They make commits skimmable, predictable, and easy to reason about months or yea
 
 The following subsections define:
   1. how bullets work,
-  2. how they should be ordered,
-  3. and how they should be grouped.
+  2. how they should be used,
+  3. how they should be ordered,
+  4. and how they should be grouped.
 
 ---
 
@@ -49,7 +66,8 @@ The following subsections define:
 Commit bodies use a semantic bullet system:
 
 - `+` **Added**
-- `*` **Changed / Updated / Improved**
+- `*` **Changed / Updated / Improved** -
+  *Note:* Can be used to clarify, or highlight, when something hasn't changed.
 - `-` **Removed**
 
 Bullets are indented by two spaces for clean Markdown rendering.
@@ -66,7 +84,13 @@ Use past‑tense or neutral phrasing in bullets.
 
 ---
 
-### 2.2 Bullet Ordering
+### 2.2 Bullet Text
+
+As stated in rule 1.1, each Bullet Text entry should be written in plain language.
+
+---
+
+### 2.3 Bullet Ordering
 
 Bullets should be ordered by importance and impact:
 
@@ -83,7 +107,7 @@ This ordering keeps the most important information at the top and makes commits 
 
 ---
 
-### 2.3 Bullet Grouping
+### 2.4 Bullet Grouping
 
 Group bullets by conceptual area to keep commits readable.
 
@@ -107,7 +131,7 @@ Example:
 
 ---
 
-### 2.4 Bullet Sub‑Items
+### 2.5 Bullet Sub‑Items
 
 Use sub‑items when a single bullet covers multiple related changes,
 especially when referencing multiple files or multiple steps in a refactor.
@@ -124,8 +148,12 @@ Sub‑items should be indented consistently for readability.
 
 ---
 
-3. File Names and Code Objects
-------------------------------
+# 3. Clarity Rules and Shorthand Syntax
+
+These conventions support clarity, brevity, and intention‑revealing commit messages.  
+They apply across all commit text, including bullets.
+
+### 3.1 File Names and Code Objects
 
 Mention file names **only when they clarify the change**.  
 Wrap file names and code objects (functions, classes, helpers, constants, etc.) in backticks:
@@ -140,8 +168,7 @@ This improves clarity without cluttering the commit.
 
 ---
 
-4. Domain Vocabulary
----------------------
+### 3.2 Domain Vocabulary
 
 Use the project’s domain language consistently:
 
@@ -155,8 +182,7 @@ Commit messages double as domain documentation.
 
 ---
 
-5. Renames
-----------
+### 3.3 Renames
 
 Use arrows to show renames or conceptual transitions:
 
@@ -169,8 +195,7 @@ This format is compact and unambiguous.
 
 ---
 
-6. Invariants and Rules
------------------------
+### 3.4 Invariants and Rules
 
 When a commit reinforces or proves a domain rule, state the rule explicitly in the header or bullets.
 

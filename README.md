@@ -145,7 +145,9 @@ All of them shape how I think, how I build, and what I ship.
 
 ### **AI is a tool, not magic.**
 
-AI is a power amplifier — it can help you move faster, but only if you already know where you're going.  
+AI is a power amplifier — it can help you move faster,
+but only if you already know where you're going.  
+
 AI can help — it can compare, review, and rephrase.  
 It can be a sounding board. It can help you solidify ideas.  
 But it can’t think for you. It can’t tell you what matters.  
