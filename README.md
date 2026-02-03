@@ -76,9 +76,9 @@ My job is to remove friction, empower teams, and build systems that last.
 Good platforms reject cleverness.  
 Good platforms make the right thing, the easy thing, and the obvious thing.
 
-**Experiment, iterate, and grow**
-Good teams guess. Great teams test. The best teams *know*.
-Good teams continually introspect, iterate, and improve.
+**Experiment, iterate, and grow**  
+Good teams guess. Great teams test. The best teams *know*.  
+Good teams continually introspect, iterate, and improve.  
 The best teams measure, that’s how they *know*.
 
 ----

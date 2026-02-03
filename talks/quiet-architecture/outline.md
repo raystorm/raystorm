@@ -20,6 +20,9 @@ Not poetic. Not mystical. Practical. Operational.
   Quiet isn't a technique, pattern, or checklist.
   It's a world view, a way to view the craft of building systems.
 
+- **Quiet is signal over noise**
+  Most systems drown you in noise. Quiet systems turn the volume down.
+
 - **Quiet is legibility.**  
   A system that tells you what it is without a tour guide.
 
