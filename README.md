@@ -46,7 +46,7 @@ DevOps & Automation — remove manual steps, keep releases safe and predictable
 
 Experimentation — once foundations are solid and releases are easy, experiment, measure, and improve
 
-#### My Engineering Philosophy
+#### The Philosophy of Quiet Engineering
 
 **Foundations first.**  
 You have to walk before you can run, or experiment.  

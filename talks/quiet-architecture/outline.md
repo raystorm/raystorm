@@ -16,6 +16,10 @@ Quiet systems aren’t passive — they’re intentional, legible, and built for
 ## **2. What “Quiet” Actually Means**
 Not poetic. Not mystical. Practical. Operational.
 
+- **Quiet is a Philosophy.**  
+  Quiet isn't a technique, pattern, or checklist.
+  It's a world view, a way to view the craft of building systems.
+
 - **Quiet is legibility.**  
   A system that tells you what it is without a tour guide.
 
