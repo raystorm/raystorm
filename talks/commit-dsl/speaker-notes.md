@@ -221,7 +221,7 @@ because I finally wrote it down.
 
 ---
 
-# **6. Era Five — The AI Experiment: Pressure‑Testing the System**
+# **6. Era Five — The AI Experiment: Testing the System**
 
 Once the style guide existed on paper, I wanted to know if it actually worked.  
 Not in my head. Not in theory. In practice.

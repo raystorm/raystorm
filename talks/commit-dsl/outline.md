@@ -1,7 +1,6 @@
-**A Commitment to Commits: 20 Years of Evolving Clear, Consistent Commit Messages**
-===================================================================================
+# **A Commitment to Commits: 20 Years of Evolving Clear, Consistent Commit Messages**
 
-*A practical, grounded talk about clarity, iteration,
+*A practical, grounded talk about clarity, iteration,  
 and the surprising power of a well‑designed commit style.*
 
 ---
@@ -21,59 +20,48 @@ and the surprising power of a well‑designed commit style.*
 ## **2. Era One — Pre‑Markdown: Instinct, Not Intention**
 ### **2.1 The plain‑text world before Markdown**
 - Usenet, IRC, early forums
-- Folk formatting conventions:
-    - `*` as a bullet because it looked like a bullet
-    - `_underline_`
-    - `/italics/`
-    - `*action*` from chat rooms
+- Folk formatting conventions (`*`, `_underline_`, `/italics/`, `*action*`)
+- No standards, only netiquette
 
-### **2.2 Your early commits across early tools**
-- Started in **Mercurial**
-- Moved to **SVN** (VisualSVN)
-- Eventually landed on **Git**
-- Commits were “notes to self”
-- `*` was your natural bullet
-- No semantics yet — just readability
+### **2.2 My early commits across early tools**
+- Mercurial → SVN → Git
+- Commits as “notes to self”
+- `*` as the natural bullet
+- No semantics — only readability
 
 **Key idea:**  
-You weren’t designing anything. You were just trying to make text readable across tools that didn’t care about formatting.
+I wasn’t designing anything.
+I was just trying to make text readable across tools that didn’t care about formatting.
 
 ---
 
-## **3. Era Two — Markdown: The Moment of Standardization**
+## **3. Era Two — Markdown: When Readability Found a Standard**
 ### **3.1 Markdown arrives**
 - Folk syntax becomes a standard
-- `*`, `-`, and `+` are all valid bullets
-- Raw text readability becomes a first‑class goal
+- Bullets, emphasis, structure gain rules
+- Readability becomes portable
 
-### **3.2 Your early bet on the future**
-> “I guessed that someday commit messages would be rendered as Markdown — in IDEs, in GUIs, etc.
->  And I wanted to get ahead of the curve.”
+### **3.2 My early bet on the future**
+> “Someday commit messages will be rendered as Markdown.  
+> And I want to be ready when that happens.”
 
-- You weren’t following a trend
-- You were anticipating a future
-- You aligned your habits with Markdown long before commit rendering was common
+- I wasn’t following a trend — I was anticipating the future
+- I aligned my habits with Markdown long before commit rendering was common
 
 ### **3.3 The shift from instinct → intention**
-- You adopt Markdown rules
-- You start thinking about:
-    - skimmability
-    - consistency
-    - future maintainers
-    - predictable structure
+- I Adopted Markdown rules
+- I begin thinking about skimmability, consistency, maintainers, structure
 
 **Key idea:**  
-This is when your system becomes deliberate.
+This is when the system becomes deliberate.
 
 ---
 
 ## **4. Era Three — The Emergence of a DSL: Semantics Take Over**
 ### **4.1 The realization**
-- Markdown bullets already carry meaning:
-    - `+` → added
-    - `-` → removed
-    - `*` → changed / neutral
-- You didn’t invent semantics — you recognized them.
+- Markdown bullets already carry meaning
+- `+` added, `-` removed, `*` changed
+- I didn’t invent semantics — I recognized them.
 
 ### **4.2 Formalizing the system**
 - `+` for added
@@ -81,77 +69,101 @@ This is when your system becomes deliberate.
 - `-` for removed
 - Commits become structured, predictable, skimmable
 
-### **4.3 The doctrine begins to form**
-- You refine the rhythm
-- You enforce invariants
-- You eliminate accidental history
-- You build a system that feels like a language — even if you never called it one
+### **4.3 Invariants emerge**
+- Meaning requires boundaries
+- Semantics require consistency
+- Consistency requires discipline
+- Discipline creates invariants
 
 **Key idea:**  
-This wasn’t a framework. It was survival.
+This is where the bullets stopped being pretty and started being true.
 
 ---
 
 ## **5. Era Four — Codifying the Style Guide: Writing It Down**
-### **5.1 Why you documented it**
+### **5.1 Why I documented it**
 - No one asked
 - No audience in mind
-- You just realized it might be useful
-- And you wanted to capture what had evolved organically
+- Just a quiet realization that it might be useful
 
-### **5.2 The act of writing reveals the system**
-- You discover gaps
-- You clarify semantics
-- You tighten the rules
-- You articulate the philosophy behind the choices
+## **5.2 Excavating the system**
+- Using AI to reflect my own habits back to me
+- Discovering rules I’d followed for years but never named
+- Realizing the system was already battle‑tested
+
+## **5.3 The act of writing reveals the system**
+- Finding gaps  
+- Clarifying semantics  
+- Tightening rules  
+- Naming assumptions (e.g., plain language)  
+- Testing edge cases  
 
 **Key idea:**  
-Codifying it didn’t create the system — it revealed it.
+The documentation didn’t create the style.  
+It revealed it.
 
 ---
 
-## **6. Era Five — The AI Experiment: Failure as Feedback**
+## **6. Era Five — The AI Experiment: Testing the System**
 ### **6.1 Curiosity sparks an experiment**
-> “I handed the style guide to an AI out of curiosity. I just wanted to see what would happen.”
+> “I handed the style guide to an AI out of curiosity.
+> I just wanted to see what would happen.”
 
-- You try it in your IDE
-- The first attempt fails — badly
+- Asking Amazon Q to write commits using the guide
+- Not automation — validation
 
-### **6.2 The failure becomes a mirror**
-- The AI exposes ambiguity
-- It shows where your rules weren’t explicit
-- It forces you to clarify your own thinking
+### **6.2 Failure as feedback**
+- AI exposes ambiguity
+- AI follows rules literally
+- Every miss reveals an unclear assumption
 
-### **6.3 Iteration leads to a breakthrough**
-- You refine the guide
-- You tighten the semantics
-- You try again
-- The AI starts producing commits that look like yours
+### **6.3 Rapid refinement**
+- A handful of iterations
+- The AI starts producing commit messages that look like mine
+- The guide becomes teachable, repeatable, durable
 
 **Key idea:**  
-You didn’t design it for AI — but clarity is transferable.
+I didn’t design it for AI — but clarity is transferable.
 
 ---
 
-## **7. What Developers Get From This System**
-### **7.1 Immediate benefits**
+## **7. Era Six — When the System Became an Artifact**
+### **7.1 The shift**
+- The system becomes explicit
+- Documented, inspectable, referencable
+
+## **7.2 The unexpected outcome**
+> “I don’t have to write my own commits anymore.  
+> My AI in my IDE knows what changed and can write them for me.”
+
+- Only possible because the system is semantic, structured, intention‑revealing
+
+**Key idea:**  
+Once a system becomes an artifact, it becomes usable by others — including AI.
+
+---
+
+## **8. What Developers Get From This System**
+### **8.1 Immediate benefits**
 - Faster skimming
 - Cleaner diffs
 - Better code reviews
 - Less cognitive load
-- Clearer intent
+- Clearer history
 - Easier debugging
-- More predictable commit history
+- Predictable structure
 
-### **7.2 Team‑level benefits**
+### **8.2 Team‑level benefits**
 - Shared mental model
 - Less confusion
 - More consistent communication
-- A commit history that reads like a story instead of noise
+- A readable project history
+- A consistent commit history that reads like a story instead of noise
+- Commits as micro‑templates; PRs as macro‑templates
 
-### **7.3 AI‑level benefits**
+### **8.3 AI‑level benefits**
 - A style guide that can be handed to an AI
-- Automatic commit generation that matches your voice
+- Automatic commit generation that matches my voice
 - A workflow upgrade with almost no overhead
 
 **Key idea:**  
@@ -159,26 +171,31 @@ A system built for humans becomes even more powerful when AI can follow it too.
 
 ---
 
-## **8. How Developers Can Build Their Own Commit Style**
+## **9. How to Build Your Own System**
 - Start with pain
 - Look for patterns
-- Anchor in plain text
-- Use symbols with natural semantics
-- Keep it minimal
-- Let it evolve
-- Document it only when it’s ready
+- Surface the system you already follow
+- Make it visible
+- Let writing create clarity
+- Let clarity enable refinement
+- Let refinement create durability
 - Treat it as a language, not a rulebook
 
 **Key idea:**  
-You’re not giving them *your* system — you’re giving them the principles to build their own.
+You don’t need to invent a system — you need to reveal the one you already use.
 
 ---
 
-## **9. Closing — The Real Point**
-> “I didn’t build this system to teach anyone.  
-> I built it for me.  So I could quickly understand my own history. 
->
-> But once I wrote it down, I realized clarity scales — to teams, to future maintainers, and even to AI.
->
-> And if clarity can scale, maybe your habits can too.”
+## **10. Stewardship — Your Turn**
+- Systems become acts of care
+- Visibility creates responsibility
+- Clarity becomes longevity
+- Explicitness enables transparency
+- AI amplifies the responsibility of clear systems
 
+**Closing idea:**  
+Once your system becomes an artifact, the next leap becomes possible.  
+Design your own.  
+It’s already there — waiting to be found, named, and handed to your future self.
+
+---
