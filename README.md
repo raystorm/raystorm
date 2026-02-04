@@ -62,7 +62,7 @@ No one cares how elegant it is if it doesn’t work.
 They *really* don’t care if it solves imaginary problems, and makes it impossible to use.
 
 **Clarity is respect.**  
-Naming, structure, and commit messages shape how others experience a system.  
+Clarity is intentional transparency, building systems that remain discoverable.  
 “Code like the person behind you is a murderous psychopath who knows where you live.”  
 Clarity is an act of care for the next person who touches the code, including future‑you.
 

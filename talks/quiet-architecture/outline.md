@@ -33,7 +33,7 @@ Not poetic. Not mystical. Practical. Operational.
   Building for the next maintainer, not the current sprint.
 
 - **Quiet is clarity.**  
-  No magic, no ceremony, no hidden behavior.
+  Intentional transparency means no magic, no ceremony, no hidden behavior.
 
 ---
 
