@@ -104,10 +104,13 @@ Loud is expensive and brittle.
 - State invariants early and plainly
 - Make boundaries explicit
 - Prefer clarity over cleverness
-- Document *why*, not *what*
-  - Documentation should always sit at one level above the thing it describes.
-    EX: If code is complex for a reason, explain the reason,
-        *and* the code, since the complexity hides the code's own explanation.
+- Documentation
+  + The backlog documents the whys.
+  + Stories document a slice.
+  + Commits document the change.
+  + Comments document the reasoning.
+  + Code documents the behavior.
+  + Documentation should always sit at one level above the thing it describes.
 - Remove noise ruthlessly
 - Build for the next maintainer, not the current sprint
 
@@ -115,7 +118,20 @@ Your commit DSL is the atomic version of this philosophy — clarity at the keys
 
 ---
 
-## **7. Case Study (Optional)**
+## **7. The Layers of Documentation**
+
+  1. The backlog documents the whys.
+  2. Stories document a slice.
+  3. Commits document the change.
+  4. Comments document the reasoning.
+  5. Code documents the behavior.
+
+Documentation is layered.
+Each layer expresses intent at its own level.
+
+---
+
+## **8. Case Study (Optional)**
 Choose one:
 
 - A loud system you inherited → made quiet
@@ -126,7 +142,7 @@ This shows the philosophy in motion.
 
 ---
 
-## **8. Closing: Quiet as a Form of Care**
+## **9. Closing: Quiet as a Form of Care**
 Quiet architecture isn’t about aesthetics.  
 It’s about responsibility, lineage, and leaving things better than you found them.
 
