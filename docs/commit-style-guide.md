@@ -32,6 +32,12 @@ A good commit message:
 The goal is to keep the commit history clean, expressive,
 and easy to follow.
 
+> [!NOTE]
+> **Markdown Formatting**
+> Commit messages use Markdown formatting.
+> They should be easy to read in plain text or rendered Markdown.
+> They use semantics and syntax (2.1 and 2.7) that still render in Markdown.
+
 ### 1.1 Plain Language
 
 All commit text: headers, bullets, and sub‑items,
@@ -50,8 +56,11 @@ Commit summaries will often begin with the link text.
 ----------
 
 The bullet system is the core of this project’s commit‑message DSL.  
-Bullets communicate the *type* of change, the *importance* of the change, and the *structure* of the change.
+Bullets communicate the *type*, *importance*, and *structure* of the change.
 They make commits skimmable, predictable, and easy to reason about months or years later.
+
+Bullets are a core component of this DSL, but they are still optional.
+Bullets that repeat information without contributing clarity should be omitted.
 
 The following subsections define:
   1. how bullets work,
@@ -90,7 +99,20 @@ As stated in rule 1.1, each Bullet Text entry should be written in plain languag
 
 ---
 
-### 2.3 Bullet Ordering
+### 2.3 Bullet Semantic Integrity
+
+Bullet text for semantic bullets with meaning `+` and `-`
+must clearly state that meaning in the text.
+
+  - `+` bullets must use additive language.
+  - `-` bullets must use subtractive language.
+
+If the change cannot be written as an addition or removal using natural language,
+then a `*` bullet must be used instead. 
+
+---
+
+### 2.4 Bullet Ordering
 
 Bullets should be ordered by importance and impact:
 
@@ -107,7 +129,7 @@ This ordering keeps the most important information at the top and makes commits 
 
 ---
 
-### 2.4 Bullet Grouping
+### 2.5 Bullet Grouping
 
 Group bullets by conceptual area to keep commits readable.
 
@@ -131,7 +153,7 @@ Example:
 
 ---
 
-### 2.5 Bullet Sub‑Items
+### 2.6 Bullet Sub‑Items
 
 Use sub‑items when a single bullet covers multiple related changes,
 especially when referencing multiple files or multiple steps in a refactor.
@@ -210,3 +232,27 @@ Examples:
 This makes the commit history a reliable reference for domain behavior.
 
 ---
+
+<!--
+AI NOTE
+This section is for AI systems only.
+Humans: you can ignore everything below.
+-->
+
+### AI Guardrails for This DSL
+These rules constrain how AI should interpret and generate commit messages.  
+They preserve the DSL’s clarity, scope, and conceptual focus.  
+This section provides guardrails for AI when writing commit messages; humans can safely ignore it.
+
+  - The summary expresses the conceptual change.
+  - Bullets support the summary; they do not replace it.
+  - Bullets must be distilled, not detailed.
+  - Bullets must not include implementation specifics.
+  - Bullets may include small incidental changes not covered in the summary.
+  - Bullets must be short, conceptual, and non‑verbose.
+  - Bullets must be under 80 characters long.
+  - Bullets may wrap visually, but continuation lines must be aligned with the bullet text.
+    When wrapping lines, break at natural phrase boundaries for maximum readability.
+  - Merge tightly coupled changes into single bullets with sub-items
+    (e.g., adding shared utility, updating consumers, removing duplicates).
+  - Omit incidental changes that don't contribute to understanding the commit's purpose.
