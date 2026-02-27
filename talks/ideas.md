@@ -59,16 +59,24 @@ This is a worldview talk. It helps teams without prescribing rules.
 
 ---
 
-## **5. Using Multiple AIs to Move Faster and Safer**
+## **5. Profiles, Q, and AI as a Multi‑Persona System**
 **Core themes**
-- How I use different AIs for different tasks
-- Why comparing answers increases safety
-- How AI becomes a clarity test
-- Where AI helps and where it fails
-- How to avoid hallucination traps
+- Starting with Q (profile‑less) vs. Copilot and how I used each for different tasks
+- How comparing Q and Copilot's answers increases safety, security, and reliability
+- Using both AIs together as a clarity test, and how that exposed ambiguity in my own thinking
+- The moment I realized I needed roles, boundaries, and separation of concerns
+- Designing the Profiles system: Analyst, Architect, Builder, Verifier, Tester
+- How Q activates profiles and why persona separation increases clarity, safety, and predictability  
+- How the system works today — a humane, intention‑revealing orchestration model
+- Why you don’t need to start with a full system; how to grow into it naturally
+- The deeper lesson: AI workflows evolve the same way architectures do —  
+  through constraints, drift, and the need for clarity
 
 **Why this talk matters**  
-It’s practical, grounded, and avoids hype. It’s about workflow, not magic.
+This is the mature version of my early “multiple AIs” talk.
+It’s not about hype or prompting tricks —  
+it’s about designing a collaborative system that mirrors real engineering roles.
+It shows evolution, not arrival.
 
 ---
 
@@ -95,11 +103,11 @@ This is a reflective talk — less structured, more experiential. Could be merge
 - The philosophy behind “quiet architecture”
 
 **Why this talk matters**  
-This is the talk that expresses your engineering philosophy without being preachy.
+This is the talk that expresses my engineering philosophy without being preachy.
 
 ---
 
-## **8. Quiet Architecture — Systems Where the Work Leads and the Design Quietly Follows.**
+## **8. Quiet Architecture — Systems Where the Work Leads and the Design Quietly Follows**
 **Core themes**
 - Architecture that reveals intent without drawing attention to itself
 - Why modern engineering is loud (frameworks, patterns, folder sprawl, cleverness)
@@ -113,13 +121,14 @@ This is the talk that expresses your engineering philosophy without being preach
 ---
 
 # **Notes**
-- The top three strongest talks
+- The top three strongest talks  
   (based on clarity, uniqueness, and narrative strength) are:
-  * **Commit DSL**,
+  * **Commit DSL**
   * **Nonprofit Origin Story**
   * **Quiet Architecture**
-  * and coming in at #4 
-  * **Documentation/Stewardship**
+- The new #4 is:  
+  * **Profiles, Q, and AI as a Multi‑Persona System**  
+- **Documentation/Stewardship** becomes a strong #5 — a craft‑focused expansion.  
 - The others are optional expansions depending on interest, time, and future projects.
 
 ---
