@@ -45,10 +45,26 @@ should be written in clear, intention‑revealing plain language.
 Avoid noise, meaningless jargon, and unnecessary ceremony.
 Write for future maintainers.
 
-### 1.2 Story/Issue Linking
+### 1.2 Summary Prefixes
+
+Summary Lines may include prefixes that encode additional information. 
+Prefixes are separated with a `-`
+
+```
+[link] - [status] - [summary]
+```
+
+#### 1.2.1 Story/Issue Linking
 
 When working in environments with issue tracking,
 Commit summaries will often begin with the link text.
+
+#### 1.2.2 Status
+
+Status prefixes indicate when work is incomplete,
+or when the commit represents work in a non-standard state.
+
+  * WIP - Work in Progress - a commit with untested or in progress changes.
 
 ---
 
@@ -116,14 +132,14 @@ then a `*` bullet must be used instead.
 
 Bullets should be ordered by importance and impact:
 
-1. **Production‑meaningful changes**  
-   (logic, behavior, domain rules, UI behavior, sagas, reducers, etc.)
-2. **Test changes**  
-   (new tests, updated tests, reorganized tests)
-3. **Documentation changes**  
-   (comments, inline docs, README updates)
-4. **Formatting or incidental changes**  
-   (spacing, reorganizing imports, renames that don’t affect behavior)
+  1. **Production‑meaningful changes**  
+     (logic, behavior, domain rules, UI behavior, sagas, reducers, etc.)
+  2. **Test changes**  
+     (new tests, updated tests, reorganized tests)
+  3. **Documentation changes**  
+     (comments, inline docs, README updates)
+  4. **Formatting or incidental changes**  
+     (spacing, reorganizing imports, renames that don’t affect behavior)
 
 This ordering keeps the most important information at the top and makes commits easier to skim.
 
@@ -135,12 +151,12 @@ Group bullets by conceptual area to keep commits readable.
 
 Typical groups include:
 
-- Domain logic
-- UI changes
-- Permission rules
-- Tests
-- Documentation
-- Miscellaneous cleanup
+  - Domain logic
+  - UI changes
+  - Permission rules
+  - Tests
+  - Documentation
+  - Miscellaneous cleanup
 
 Example:
 
@@ -194,11 +210,11 @@ This improves clarity without cluttering the commit.
 
 Use the project’s domain language consistently:
 
-- box, user box, default box, personal box
-- collection, child collection, item
-- permissions, roles, access levels
-- saga, test table, helpers
-- `AlertBar`, `AlertView`, `BoxMembersList`, `BoxForm`
+  - box, user box, default box, personal box
+  - collection, child collection, item
+  - permissions, roles, access levels
+  - saga, test table, helpers
+  - `AlertBar`, `AlertView`, `BoxMembersList`, `BoxForm`
 
 Commit messages double as domain documentation.
 
