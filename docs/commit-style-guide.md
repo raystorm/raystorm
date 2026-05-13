@@ -45,10 +45,27 @@ should be written in clear, intention‑revealing plain language.
 Avoid noise, meaningless jargon, and unnecessary ceremony.
 Write for future maintainers.
 
-### 1.2 Story/Issue Linking
+### 1.2 Summary Prefixes
+
+Summary Lines may include prefixes that encode additional information.
+Prefixes are separated with a `-`
+
+```
+[link] - [status] - [summary]
+```
+
+#### 1.2.1 Story/Issue Linking
 
 When working in environments with issue tracking,
 Commit summaries will often begin with the link text.
+Exact format to be determined by the project and tracking/linking software.
+
+#### 1.2.2 Status
+
+Status prefixes indicate when work is incomplete,
+or when the commit represents work in a non-standard state.
+
+* WIP - Work in Progress - a commit with untested or in progress changes.
 
 ---
 
@@ -84,9 +101,9 @@ Bullets are indented by two spaces for clean Markdown rendering.
 Example:
 
 ```
-  + added isDefault to permissions checks, added tests
-  * UI disables for default box now, w/ tests
-  - remove JSON stringify/parse
+  + add validation rule for new entity type `myNewType`
+  * updated UI behavior for disabled state
+  - remove deprecated configuration flag `someDeprecatedFlag`
 ```
 
 Use past‑tense or neutral phrasing in bullets.
@@ -146,9 +163,9 @@ Example:
 
 ```
   * Create/Update forces WRITE access for Owner
-  * boxListSaga checks for Owned when getting boxList
-  + add tests for boxRules permissions helpers
-  + add tests for roles has*Access helpers
+  * MyTypeDTO enforces permissions on retrieval
+  + add tests for SomeOtherType permissions helpers
+  + add tests for role  validation utilities
 ```
 
 ---
@@ -161,9 +178,9 @@ especially when referencing multiple files or multiple steps in a refactor.
 Example:
 
 ```
-  * VariantOverrides for enqueueSnackBar finally work
-    * -> *.d.ts
-    * switched to a `type` from AlertBarTypes
+  * improve notification handling
+    * update type definitions
+    * replace legacy helper with shared utility
 ```
 
 Sub‑items should be indented consistently for readability.
@@ -180,10 +197,12 @@ They apply across all commit text, including bullets.
 Mention file names **only when they clarify the change**.  
 Wrap file names and code objects (functions, classes, helpers, constants, etc.) in backticks:
 
+Example:
+
 ```
   * cleanup `verifyDateField` helper
-    * `DocumentDetails.tsx` reorganized
-    * `verifyDateField.ts` simplified
+    * `Document.ext` reorganized
+    * `verifyDateField.ext` simplified
 ```
 
 This improves clarity without cluttering the commit.
@@ -193,24 +212,36 @@ This improves clarity without cluttering the commit.
 ### 3.2 Domain Vocabulary
 
 Use the project’s domain language consistently:
+Commit messages should use the same terms, object names,
+and conceptual language that the project uses in its code, documentation, and architecture.
 
-- box, user box, default box, personal box
-- collection, child collection, item
-- permissions, roles, access levels
-- saga, test table, helpers
-- `AlertBar`, `AlertView`, `BoxMembersList`, `BoxForm`
+When referring to specific objects
+(types, functions, components, helpers, constants, etc.),
+wrap their names in backticks for clarity.
 
 Commit messages double as domain documentation.
 
----
-
-### 3.3 Renames
-
-Use arrows to show renames or conceptual transitions:
+Example:
 
 ```
-  * AlertMessage (data) -> Alert
-  * AlertMessage (component) -> AlertView
+  * update `RecordValidator` to enforce new `RecordPolicy`
+    * `RecordView` now displays validation errors
+```
+
+---
+
+### 3.3 Arrow Syntax (Deltas)
+
+Use arrows `->` to show transitions from before *to* after (before -> after):  
+(moves, renames, etc)  
+
+Example:
+
+```
+  * Rename Content -> Document
+  * Message -> MessageDisplay
+  * Move `docs/README.md` -> `docs/dev/README.md`
+  * Change Page Header H1 -> H2
 ```
 
 This format is compact and unambiguous.
@@ -224,9 +255,9 @@ When a commit reinforces or proves a domain rule, state the rule explicitly in t
 Examples:
 
 ```
-  * Only 1 USER box per user.
+  * Only 1 USER allowed per container.
   * Collection updates preserve contained item[]
-  * Create/Update forces WRITE access for Owner
+  * Resource modifications require WRITE permission.
 ```
 
 This makes the commit history a reliable reference for domain behavior.
