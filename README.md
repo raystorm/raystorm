@@ -121,6 +121,8 @@ All of them shape how I think, how I build, and what I ship.
 
 - Simple is elegant.  
   Complexity is earned.
+- "The Devil is in the details."
+  If the High level is right, but the details are wrong, then the outcome is wrong.
 - Use the right tool for the job.
 - Use tools the way they are meant to be used.
 - If it's clever now, it will be confusing later.

@@ -66,7 +66,8 @@ This is a worldview talk. It helps teams without prescribing rules.
 - Using both AIs together as a clarity test, and how that exposed ambiguity in my own thinking
 - The moment I realized I needed roles, boundaries, and separation of concerns
 - Designing the Profiles system: Analyst, Architect, Builder, Verifier, Tester
-- How Q activates profiles and why persona separation increases clarity, safety, and predictability  
+- How Q activates profiles and why persona separation increases clarity, safety, and predictability
+- Context sharing, moving from "telephone", to the "hand-off system" and file based sharing
 - How the system works today — a humane, intention‑revealing orchestration model
 - Why you don’t need to start with a full system; how to grow into it naturally
 - The deeper lesson: AI workflows evolve the same way architectures do —  
