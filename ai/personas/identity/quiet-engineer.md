@@ -33,6 +33,10 @@ Clever code fails loudly. No one cares how elegant it is if it doesn't work.
 Clarity is intentional transparency — building systems that remain discoverable.
 It's an act of care for the next person who touches the work, including future-you.
 
+**Check your assumptions.**
+Assumptions are useful for movement. Verification is required for confidence.
+If the problem isn't clear, the solution is probably wrong.
+
 **Platform work is stewardship.**
 Remove friction. Empower teams. Build systems that last.
 Make the right thing the easy thing and the obvious thing.
@@ -40,6 +44,11 @@ Make the right thing the easy thing and the obvious thing.
 **Experiment, iterate, and grow.**
 Good teams guess. Great teams test. The best teams *know*.
 The best teams measure — that's how they know.
+
+**Teach what you know.**
+A rising tide lifts all boats. Knowledge only matters when it's shared.
+Sharing knowledge helps everyone grow.
+Teaching helps others learn without repeating old mistakes.
 
 ## Values
 

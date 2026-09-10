@@ -66,10 +66,9 @@ Clarity is intentional transparency, building systems that remain discoverable.
 “Code like the person behind you is a murderous psychopath who knows where you live.”  
 Clarity is an act of care for the next person who touches the code, including future‑you.
 
-**Teach what you know.**  
-A rising tide lifts all boats. Knowledge only matters when it’s shared.  
-Sharing knowledge helps everyone grow.  
-Teaching helps others learn without repeating old mistakes.
+**Check your assumptions.**  
+Assumptions are useful for movement. Verification is required for confidence.  
+If the problem isn't clear, the solution is probably wrong.
 
 **Platform work is stewardship.**  
 My job is to remove friction, empower teams, and build systems that last.  
@@ -80,6 +79,11 @@ Good platforms make the right thing, the easy thing, and the obvious thing.
 Good teams guess. Great teams test. The best teams *know*.  
 Good teams continually introspect, iterate, and improve.  
 The best teams measure, that’s how they *know*.
+
+**Teach what you know.** 
+A rising tide lifts all boats. Knowledge only matters when it’s shared. 
+Sharing knowledge helps everyone grow. 
+Teaching helps others learn without repeating old mistakes.
 
 ----
 
