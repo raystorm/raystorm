@@ -126,9 +126,12 @@ All of them shape how I think, how I build, and what I ship.
 - Simple is elegant.  
   Complexity is earned.
 - "The Devil is in the details."
-  If the High level is right, but the details are wrong, then the outcome is wrong.
+  If the High level is right, but the details are wrong, then the solution and outcome are wrong.
+- Measure twice, cut once. - Pausing to make sure you are solving the right problem, can save days of chasing the wrong one.
 - Use the right tool for the job.
 - Use tools the way they are meant to be used.
+- Only a rich man can afford cheap windows.
+  Something that's cheap (or free) now, can be expensive later.
 - If it's clever now, it will be confusing later.
 - If it’s hard to name, or test, it’s probably doing too much.
 - Tests are not optional.
