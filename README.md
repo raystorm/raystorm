@@ -150,6 +150,8 @@ All of them shape how I think, how I build, and what I ship.
 - If you can’t measure it, you can’t improve it.
 - If you can't see it, you can't diagnose it.
   If you can't diagnose it, you can't fix it.
+- If it ain't broke, don't fix it.
+- An ounce of prevention is worth a pound of cure.
 
 ### **AI is a tool, not magic.**
 
