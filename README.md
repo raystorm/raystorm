@@ -155,6 +155,11 @@ All of them shape how I think, how I build, and what I ship.
 
 ### **AI is a tool, not magic.**
 
+> As LLMs become more capable, guardrails become *more important*, not less.  
+>   
+> Intelligence expands what an agent *can reliably* do.  
+> Governance determines what it *may safely* do.  
+
 AI is a power amplifier — it can help you move faster,
 but only if you already know where you're going.  
 
